@@ -1,5 +1,5 @@
 # How to set up a wallet & connect to blockchain 
-# via neo python package & docker
+# Via neo python package & docker
 
 ## 1.  First download python 3.5.4
     Check what version of python you have by typing: 
