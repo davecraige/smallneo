@@ -33,7 +33,7 @@
 
     $ docker run --rm -d --name neo-privatenet -p 20333-20336:20333-20336/tcp -p 30333-30336:30333-30336/tcp cityofzion/neo-privatenet
 
-## 7.  Next download ne-python package
+## 7.  Next download neo-python package
    
     To download, first clone repo on following git page into any directory of your choosing:
     
