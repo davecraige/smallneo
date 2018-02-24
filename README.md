@@ -57,5 +57,5 @@
 
     It should look like 
 
-![Image](../blob/master/data/wallet.png?raw=true)  
+![Image](/data/wallet.png?raw=true)  
 
