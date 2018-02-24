@@ -63,11 +63,22 @@
 
 11. Then execute :
 
-    $ prompt.py
+    $ prompt.py -p
 
-12. Break out into dance cause you're connected to neo blockchain son!
+12. When you see neo> prompt type:
+ 
+    $ open wallet neo-privnet.wallet
+
+    It will ask for a password : password = coz
+
+13. Next type:
+
+    $ wallet rebuild
+    $ wallet
+
+14. Break out into dance cause you're connected to neo blockchain son!
 
 It should look like 
 
-![alt text](https://github.com/2PacIsAlive/smallneo/blob/master/data/wallet.png)  
+![Scheme]("/data/wallet.png")  
 
