@@ -1,5 +1,5 @@
 # How to set up a wallet & connect to 
-# blockchain via neo python package & Docker
+# blockchain via neo python package & docker
 
 1.  First download python 3.5.4
     Check what version of python you have by typing: 
@@ -37,7 +37,7 @@
 
     $ docker run --rm -d --name neo-privatenet -p 20333-20336:20333-20336/tcp -p 30333-30336:30333-30336/tcp cityofzion/neo-privatenet
 
-7. Next download ne-python package
+7.  Next download ne-python package
 
     To download, first clone repo on following git page into any directory of your choosing:
 
@@ -59,7 +59,7 @@
 
     $ pip install -r requirements.txt
 
-10.  Next download wallet file from the /data file into your cloned git repo.
+10. Next download wallet file from the /data file into your cloned git repo.
 
 11. Then execute :
 
@@ -69,5 +69,5 @@
 
 It should look like 
 
-![alt text](https://github.com/2PacIsAlive/smallneo/data/wallet.png)  
+![alt text](https://github.com/2PacIsAlive/smallneo/blob/master/data/wallet.png)  
 
