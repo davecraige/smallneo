@@ -72,7 +72,7 @@
     $ wallet rebuild
     $ wallet
 
-## 14. Break out into dance cause you're connected to neo blockchain son!
+## 14. Break out into dance cause you're connected to NEO blockchain son!
 
     It should look like 
 
